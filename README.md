@@ -1,6 +1,6 @@
 # Hello, I'm Rodrigo :)
 
-### I'm a MSc Student in Software Engineering @ Universidade do Minho
+### I'm a MSc Graduate in Software Engineering @ Universidade do Minho
 
 - Trying to pursue a career focused on Web Development and Data Science.
 - From Braga, Portugal
@@ -47,6 +47,7 @@
 
 -->
 <p>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jinjas&theme=github_dark&icon_color=2a6da7&chart_color=2a6da7" alt="generic stats" />
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jinjas&theme=github_dark&exclude=C%2C+Jupyter+Notebook&icon_color=2a6da7&chart_color=2a6da7" alt="Most committed language" />
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jinjas&theme=github_dark&exclude=C%2C+Jupyter+Notebook&icon_color=2a6da7&chart_color=2a6da7" alt="Languages by repositories" />
 </p>
